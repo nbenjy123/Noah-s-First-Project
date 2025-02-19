@@ -34,7 +34,7 @@ Steps to Run
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/PersonalLibraryManager.git
+git clone https://github.com/nbenjy123/PersonalLibraryManager.git
 cd PersonalLibraryManager
 
 Compile the Java files:
@@ -57,7 +57,6 @@ Search books using keywords.
 
 Exit the program to save changes.
 
-📂 Project Structure
 
 📁 PersonalLibraryManager
  ├── 📄 Book.java            (Represents a book)
